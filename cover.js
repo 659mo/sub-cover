@@ -88,7 +88,7 @@ const FEATURE_GROUP_TEMPLATES = [
   },
   {
     name: PROXY_GROUPS.DESIGN,
-    icon: "https://gcore.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Behance.png",
+    icon: "https://gcore.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Magic.png",
   },
 ];
 
